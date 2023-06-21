@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🌱 I’m currently learning  React Js and React Native...
 - 💬 Ask me about anything, I am happy to help.
-- :mailbox:How to reach me:  whatsapp => 9787973192. or  [![Linkedin Badge](https://img.shields.io/badge/-Tamilarasan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasan-a-9b915a15a/)
+- :mailbox:How to reach me:  whatsapp => 9787973192. or  [![Linkedin Badge](https://img.shields.io/badge/-Tamilarasan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasana/)
 
 <hr>
 
